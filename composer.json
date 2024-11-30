@@ -1,0 +1,17 @@
+{
+    "name": "lethargiccoder/sample",
+    "description": "test project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Lethargiccoder\\Sample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eric Cestnick",
+            "email": "eric.cestnick@gmail.com"
+        }
+    ],
+    "require": {}
+}
